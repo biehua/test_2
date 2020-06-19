@@ -1,0 +1,1 @@
+print('直接share分享')
